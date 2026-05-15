@@ -34,6 +34,10 @@ ipython>=8.0.0
 # VLM-specific Utilities
 qwen-vl-utils>=0.0.1
 
+# Frontend (Streamlit)
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.2
+
 # Optional but Recommended for Performance
 # Uncomment these if you have CUDA-compatible GPU
 
