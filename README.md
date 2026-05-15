@@ -1,15 +1,42 @@
-# Vision Language Models
+# Vision Language Models (VLM) Guide
 
-A comprehensive learning resource for Vision Language Models (VLMs), progressing from foundational concepts to advanced object detection and image captioning tasks.
+A comprehensive learning resource for mastering Vision Language Models, from embeddings and zero-shot classification to advanced object detection and image captioning.
 
-## 📚 Overview
+![Status](https://img.shields.io/badge/Status-Ready-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-Educational-orange)
 
-This guide teaches how to work with state-of-the-art Vision Language Models like **CLIP** and **Qwen 2.5-VL**. Through hands-on notebooks, you'll learn:
+---
 
-- **Text & Image Embeddings**: Generate and compare feature vectors
-- **Zero-Shot Classification**: Classify images without training
-- **Image Captioning**: Generate descriptive text from images  
-- **Object Detection**: Locate and identify objects in images with spatial reasoning
+## ⚡ Quick Start
+
+```bash
+# 1. Clone/Download this repository
+cd /path/to/VLM-Guide
+
+# 2. Create virtual environment
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# or
+venv\Scripts\activate  # Windows
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Launch Jupyter
+jupyter notebook
+```
+
+---
+
+## 📑 Table of Contents
+
+- [Quick Start](#-quick-start)
+- [Notebooks Overview](#-notebooks-overview)  
+- [Requirements](#-requirements)
+- [Installation](#-installation)
+- [Learning Path](#-learning-path)
+- [Key Concepts](#-key-concepts)
+- [Troubleshooting](#-troubleshooting)
+- [Resources](#-resources)
 
 ## 📋 Notebooks
 
